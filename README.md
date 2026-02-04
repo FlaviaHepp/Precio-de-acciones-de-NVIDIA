@@ -67,11 +67,13 @@ Se entrenan y comparan distintos modelos supervisados para predecir el precio de
 - TensorFlow / Keras (preparado para modelos secuenciales)
 - statsmodels
 
+
 # 📂Estructura del proyecto
 
 ├── Análisis de precios de acciones de NVIDIA.py
 ├── nvidia_stock_2015_to_2024.csv
 └── README.md
+
 
 # 📌Resultados principales
 
